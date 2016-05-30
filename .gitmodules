@@ -1,0 +1,3 @@
+[submodule "lib/WurfelEngine"]
+	path = lib/WurfelEngine
+	url = https://github.com/robmadeyou/WurfelEngine
